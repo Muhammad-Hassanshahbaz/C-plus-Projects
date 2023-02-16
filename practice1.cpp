@@ -180,7 +180,7 @@ void menu(string message)
 				else
 				{
 					system("cls");
-			cout<<"\n\n\t\t\tTHANK YOU FOR VISITING (PROJECT BY)\n Hassan Shahbaz (21k-3336)\nAbdul Wasay (21k-4589)\nAshesh kumar (21k-3451) \t\t\t";
+			cout<<"\n\n\t\t\tTHANK YOU FOR VISITING (PROJECT BY)\n Hassan Shahbaz\t\t\t";
 				}
 			}
 	
@@ -207,7 +207,7 @@ void menu(string message)
 		
 		else if(choice==4)
 		{
-			cout<<"\n\n\t\t\tTHANK YOU FOR VISITING \nPROJECT BY \nHassan Shahbaz2 (21k-3336)\nAbdul Wasay (21k-4589)\nAshesh Kumar (21k-3451)): \t\t\t";
+			cout<<"\n\n\t\t\tTHANK YOU FOR VISITING \nPROJECT BY \nHassan Shahbaz: \t\t\t";
 			
 		}
 			
@@ -303,7 +303,7 @@ void menu(string message)
 	}
 	else
 	{
-			cout<<"\n\n\t\t\tTHANK YOU FOR VISITING \nPROJECT BY \nHassan Shahbaz2 (21k-3336)\nAbdul Wasay (21k-4589)\nAshesh Kumar (21k-3451)): \t\t\t";
+			cout<<"\n\n\t\t\tTHANK YOU FOR VISITING \nPROJECT BY \nHassan Shahbaz: \t\t\t";
 		getchar();		
 	}
 }
